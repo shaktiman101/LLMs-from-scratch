@@ -1,0 +1,4 @@
+In progress:
+    ch02 - ch02.ipynb covered
+    
+Completed:
