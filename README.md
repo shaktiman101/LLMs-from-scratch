@@ -1,4 +1,6 @@
-# Build a Large Language Model (From Scratch)
+Fork of 
+# Build a Large Language Model (From Scratch) by Sebastian Raschka
+will help track progress of training LLM from scrath.
 
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book [Build a Large Language Model (From Scratch)](https://amzn.to/4fqvn0D).
 
