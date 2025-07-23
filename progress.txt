@@ -1,4 +1,5 @@
 In progress:
-    ch02 - ch02.ipynb covered
+    ch03 - ch03.ipynb
     
 Completed:
+    ch02 - ch02.ipynb
